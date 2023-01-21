@@ -1,0 +1,25 @@
+{
+  "name": "medium-responsive-typography-helpers",
+  "version": "1.0.0",
+  "description": "Responsive SCSS typography classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-sokolowski/medium-responsive-typography-helpers.git"
+  },
+  "keywords": [
+    "CSS",
+    "SASS",
+    "SCSS",
+    "typography"
+  ],
+  "author": "Adam Sokolowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-sokolowski/medium-responsive-typography-helpers/issues"
+  },
+  "homepage": "https://github.com/adam-sokolowski/medium-responsive-typography-helpers#readme"
+}
